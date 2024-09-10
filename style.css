@@ -18,3 +18,12 @@
     align-items: center;
     justify-conteny: space-between
 }
+.logo{
+    width: 120px;
+    cursor: pointer;
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+}
